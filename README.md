@@ -1,2 +1,3 @@
 # Python
-#  This is a project for studying PYTHON.
+
+ This is a project for studying PYTHON.
